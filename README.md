@@ -7,7 +7,7 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 
 | Día | Desafío | Solución |
 |-----|---------|----------|
-|  1  | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Ver solución](src/Day01.kt) |
-|  2  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Ver solución](src/Day02.kt) |
-|  3  | [Mull It Over](https://adventofcode.com/2024/day/3) | [Ver solución](src/Day03.kt) |
-|  4  | [Ceres Search](https://adventofcode.com/2024/day/4) | [Ver solución](src/Day04.kt) |
+|  1  | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Ver solución](src/Day1.kt) |
+|  2  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Ver solución](src/Day2.kt) |
+|  3  | [Mull It Over](https://adventofcode.com/2024/day/3) | [Ver solución](src/Day3.kt) |
+|  4  | [Ceres Search](https://adventofcode.com/2024/day/4) | [Ver solución](src/Day4.kt) |
