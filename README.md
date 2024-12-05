@@ -5,9 +5,10 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 
 ## Problemas
 
-| Día | Desafío | Solución |
-|-----|---------|----------|
+| Día | Desafío                                                   | Solución                    |
+|-----|-----------------------------------------------------------|-----------------------------|
 |  1  | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Ver solución](src/Day1.kt) |
-|  2  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Ver solución](src/Day2.kt) |
-|  3  | [Mull It Over](https://adventofcode.com/2024/day/3) | [Ver solución](src/Day3.kt) |
-|  4  | [Ceres Search](https://adventofcode.com/2024/day/4) | [Ver solución](src/Day4.kt) |
+|  2  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Ver solución](src/Day2.kt) |
+|  3  | [Mull It Over](https://adventofcode.com/2024/day/3)       | [Ver solución](src/Day3.kt) |
+|  4  | [Ceres Search](https://adventofcode.com/2024/day/4)       | [Ver solución](src/Day4.kt) |
+|  4  | [Print Queue](https://adventofcode.com/2024/day/5)        | [Ver solución](src/Day5.kt) |
