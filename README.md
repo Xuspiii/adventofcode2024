@@ -12,3 +12,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 3   | [Mull It Over](https://adventofcode.com/2024/day/3)       | [Ver solución](src/Day3.kt) |
 | 4   | [Ceres Search](https://adventofcode.com/2024/day/4)       | [Ver solución](src/Day4.kt) |
 | 5   | [Print Queue](https://adventofcode.com/2024/day/5)        | [Ver solución](src/Day5.kt) |
+| 6   | [Guard Gallivant](https://adventofcode.com/2024/day/6)    | [Ver solución](src/Day6.kt) |
