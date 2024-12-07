@@ -13,3 +13,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 4   | [Ceres Search](https://adventofcode.com/2024/day/4)       | [Ver solución](src/Day4.kt) |
 | 5   | [Print Queue](https://adventofcode.com/2024/day/5)        | [Ver solución](src/Day5.kt) |
 | 6   | [Guard Gallivant](https://adventofcode.com/2024/day/6)    | [Ver solución](src/Day6.kt) |
+| 7   | [Bridge Repair](https://adventofcode.com/2024/day/7)      | [Ver solución](src/Day7.kt) |
