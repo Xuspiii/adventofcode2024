@@ -15,3 +15,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 6   | [Guard Gallivant](https://adventofcode.com/2024/day/6)       | [Ver solución](src/Day6.kt) |
 | 7   | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Ver solución](src/Day7.kt) |
 | 8   | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Ver solución](src/Day8.kt) |
+| 9   | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Ver solución](src/Day9.kt) |
