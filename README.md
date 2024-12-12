@@ -18,3 +18,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 9   | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Ver solución](src/Day9.kt)  |
 | 10  | [Hoof It](https://adventofcode.com/2024/day/10)              | [Ver solución](src/Day10.kt) |
 | 11  | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Ver solución](src/Day11.kt) |
+| 12  | [Garden Groups](https://adventofcode.com/2024/day/12)        | [Ver solución](src/Day12.kt) |
