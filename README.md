@@ -21,3 +21,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 12  | [Garden Groups](https://adventofcode.com/2024/day/12)        | [Ver solución](src/Day12.kt) |
 | 13  | [Claw Contraption](https://adventofcode.com/2024/day/13)     | [Ver solución](src/Day13.kt) |
 | 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Ver solución](src/Day14.kt) |
+| 15  | [Warehouse Woes](https://adventofcode.com/2024/day/15)       | [Ver solución](src/Day15.kt) |
