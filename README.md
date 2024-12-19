@@ -23,3 +23,5 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Ver solución](src/Day14.kt) |
 | 15  | [Warehouse Woes](https://adventofcode.com/2024/day/15)       | [Ver solución](src/Day15.kt) |
 | 16  | [Reindeer Maze](https://adventofcode.com/2024/day/16)        | [Ver solución](src/Day16.kt) |
+| 18  | [RAM Run](https://adventofcode.com/2024/day/18)              | [Ver solución](src/Day18.kt) |
+| 19  | [Linen Layout](https://adventofcode.com/2024/day/19)         | [Ver solución](src/Day19.kt) |
