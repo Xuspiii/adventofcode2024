@@ -26,3 +26,4 @@ Estas son mis soluciones para el Advent of Code 2024 utilizando Kotlin. Mi objet
 | 18  | [RAM Run](https://adventofcode.com/2024/day/18)              | [Ver solución](src/Day18.kt) |
 | 19  | [Linen Layout](https://adventofcode.com/2024/day/19)         | [Ver solución](src/Day19.kt) |
 | 20  | [Race Condition](https://adventofcode.com/2024/day/20)       | [Ver solución](src/Day20.kt) |
+| 22  | [Monkey Market](https://adventofcode.com/2024/day/22)        | [Ver solución](src/Day22.kt) |
